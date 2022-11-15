@@ -1,5 +1,11 @@
 # @backstage/version-bridge
 
+## 1.0.2
+
+### Patch Changes
+
+- e70984325d: Debuggable/inspectable versioned values
+
 ## 1.0.1
 
 ### Patch Changes
